@@ -55,8 +55,8 @@ namespace SeguridadBB
             //   consumerSecret: "");
 
             app.UseFacebookAuthentication(
-               appId: "1069806493833100",
-               appSecret: "a7330d218a0523bea4d6e8d408d7262c");
+               appId: "id",
+               appSecret: "key");
 
             //app.UseGoogleAuthentication(new GoogleOAuth2AuthenticationOptions()
             //{
